@@ -60,6 +60,14 @@ li:hover{
     display: block;
 }
 
+.js-weather{
+    color: white;
+    font-size: 1em;
+    display: block;
+    text-align: right;
+    margin: 0.5em;
+}
+
 @keyframes fadeIn{
     from{
         opacity: 0;
